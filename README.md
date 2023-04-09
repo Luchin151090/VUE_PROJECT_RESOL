@@ -1,3 +1,3 @@
-![Alt text](https://i.gifer.com/J11h.gif)
+![](https://i.gifer.com/J11h.gif)
 
-## hola
+## Bienvenido a la aplicación de gestión documentaria
