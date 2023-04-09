@@ -6,6 +6,6 @@
 Este README está creado con la intención de guiar al usuario en la instalación y/o prueba del proyecto en forma local.
 A continuación, se dará las librerías necesarias para ejecutar este proyecto, en sus respectivas máquinas de trabajo.
 
-## LIBRERÍAS DE JS
-El proyecto está hecho con el Framework VUE JS, el cual depende de los paquetes de NODE JS:
-`npm install`
+## Pasos para la instalación de forma local
+
+1. Descargar e instalar la versión más reciente de NODE JS -> https://nodejs.org/es/download
