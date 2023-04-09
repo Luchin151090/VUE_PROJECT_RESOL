@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://i.morioh.com/2022/07/27/d0db7266.webp" width="100%" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+# <div align="center"><img src="https://i.morioh.com/2022/07/27/d0db7266.webp" width="70%" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></div>
 
 
 # <div align="center">Bienvenido a la aplicación de gestión documentaria BuResol</div>
